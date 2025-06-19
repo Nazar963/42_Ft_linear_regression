@@ -1,6 +1,6 @@
 # ft_linear_regression: Predicting Prices with Linear Models 📈
 
-[![42 School](https://img.shields.io/badge/42-School-blue)](https://www.42.fr/)
+[![42 School](https://img.shields.io/badge/42-School-blue)](https://42firenze.it/)
 [![GitHub license](https://img.shields.io/github/license/Nazar963/42_ft_linear_regression)](https://github.com/Nazar963/42_ft_linear_regression/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://python.org)
 [![No Bonus](https://img.shields.io/badge/Bonus-Not_Implemented-red)](https://github.com/Nazar963/42_ft_linear_regression)
